@@ -1,6 +1,6 @@
 {
   "name": "@npm-breach/check",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Security-focused CLI tool to detect potentially vulnerable packages in your Node.js applications",
   "main": "lib/index.js",
   "bin": {
@@ -13,7 +13,7 @@
   "keywords": [
     "security",
     "vulnerability",
-    "scanner", 
+    "scanner",
     "cli",
     "npm",
     "package-checker",
