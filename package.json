@@ -1,0 +1,38 @@
+{
+  "name": "@npm-breach/check",
+  "version": "1.0.0",
+  "description": "Security-focused CLI tool to detect potentially vulnerable packages in your Node.js applications",
+  "main": "lib/index.js",
+  "bin": {
+    "npm-breach-check": "./lib/index.js"
+  },
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "echo \"No tests configured for plain JavaScript version\" && exit 0"
+  },
+  "keywords": [
+    "security",
+    "vulnerability",
+    "scanner", 
+    "cli",
+    "npm",
+    "package-checker",
+    "dependency-tree",
+    "breach",
+    "audit"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/labidiaymen/npm-breach.git"
+  },
+  "homepage": "https://github.com/labidiaymen/npm-breach#readme",
+  "bugs": {
+    "url": "https://github.com/labidiaymen/npm-breach/issues"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "semver": "^7.5.0"
+  }
+}

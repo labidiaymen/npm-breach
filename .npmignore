@@ -1,0 +1,12 @@
+# Development files
+.git/
+.github/
+node_modules/
+.gitignore
+.DS_Store
+
+# Only include the essentials
+!lib/
+!affected-packages.json
+!package.json
+!README.md
