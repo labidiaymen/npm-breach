@@ -154,7 +154,7 @@
     },
     {
       "name": "ansi-styles",
-      "versions": ["2.2.1"]
+      "versions": ["6.2.2"]
     },
     {
       "name": "debug",
